@@ -19,3 +19,7 @@ This is master.
 create branch.
 
 delete branch.
+
+feature2
+
+diff
