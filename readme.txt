@@ -1,3 +1,7 @@
 this is a example of learning git.
-q
+2
 quit
+
+add some new line
+
+this is a modification
