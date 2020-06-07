@@ -18,3 +18,4 @@ This is master.
 
 create branch.
 
+delete branch.
